@@ -1,0 +1,1 @@
+app.get('/api/games', async (req, res) =
